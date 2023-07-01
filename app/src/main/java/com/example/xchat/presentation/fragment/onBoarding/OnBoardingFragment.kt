@@ -1,4 +1,4 @@
-package com.example.xchat.presentation.fragment.onboarding
+package com.example.xchat.presentation.fragment.onBoarding
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
