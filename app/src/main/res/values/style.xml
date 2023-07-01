@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bottom Navigation Style -->
+    <style name="BottomNavigationStyle">
+        <item name="backgroundColor">#0000</item>
+        <item name="itemIconSize">24sp</item>
+        <item name="itemIconTint">@color/white</item>
+        <item name="itemTextColor">@color/white</item>
+        <!--        <item name="menu">@menu/news_menu_navigation</item>-->
+        <item name="labelVisibilityMode">labeled</item>
+    </style>
+
+</resources>
