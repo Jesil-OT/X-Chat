@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">X-Chat</string>
+
+    <!--content description-->
+    <string name="onboard_screen_background_cd">onBoard_screen_background_cd</string>
+    <string name="mini_app_logo">mini_app_logo</string>
+    <!--other strings-->
+    <string name="let_get_started">Let\'s Get Started</string>
+    <string name="second_text_onBoarding">Everything work better together</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
 </resources>

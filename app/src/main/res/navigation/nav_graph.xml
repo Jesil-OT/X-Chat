@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/onBoardingFragment"
-        android:name="com.example.xchat.presentation.fragment.onboarding.OnBoardingFragment"
+        android:name="com.example.xchat.presentation.fragment.onBoarding.OnBoardingFragment"
         android:label="fragment_onboarding"
         tools:layout="@layout/fragment_onboarding" />
 </navigation>
