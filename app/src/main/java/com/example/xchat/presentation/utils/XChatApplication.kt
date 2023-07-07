@@ -1,4 +1,4 @@
-package com.example.xchat.presentation.activity
+package com.example.xchat.presentation.utils
 
 import android.app.Application
 import com.example.xchat.presentation.utils.ReleaseTree
